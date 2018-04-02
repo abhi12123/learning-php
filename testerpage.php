@@ -1,5 +1,5 @@
 <?php
-	$sometext = "Harry Potter";
-	$somenumber = 32;
-	echo $sometext.$somenumber;
+for($i=0;$i<10;$i++){
+echo $i."<br/>";
+}
 ?>
