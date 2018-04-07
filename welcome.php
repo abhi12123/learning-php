@@ -1,8 +1,6 @@
 <html>
 <body>
 
-<form action="testerpage.php" method="post">
-name:<input type="text" name="name"/>
-<input type="submit" />
+<?php include("testerpage.php"); ?>
 </body>
 </html>

@@ -1,9 +1,7 @@
 <html>
 <body>
 <?php
-
-echo $_POST["name"];
-
+echo "hello"
 ?>
 </body>
 </html>
